@@ -5,10 +5,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center"">
-  <a href="https://github.com/felipechatalov">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felipechatalov&show_icons=true&theme=dark&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felipechatalov&layout=compact&langs_count=8&theme=dark&include_all_commits=true"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felipechatalov&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felipechatalov&layout=compact&langs_count=8&theme=dark&include_all_commits=true"/>
 </div>
 
 
