@@ -5,7 +5,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipechatalov&show_icons=true&theme=dark)] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipechatalov&layout=compact&theme=dark)] |
-| :---: | :---: |
+
 
 
 ## Languages
@@ -26,5 +26,5 @@
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> 
 <br />
 
-
+##
 ![](https://komarev.com/ghpvc/?username=felipechatalov&color=blue&style=flat)
